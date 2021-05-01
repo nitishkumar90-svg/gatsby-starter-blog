@@ -64,9 +64,7 @@
 
 /* HTML elements */
 
-*,
-:after,
-:before {
+*, :after, :before {
   box-sizing: border-box;
 }
 
@@ -95,12 +93,7 @@ hr {
 
 /* Heading */
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-heading);
   margin-top: var(--spacing-12);
   margin-bottom: var(--spacing-6);
@@ -108,11 +101,7 @@ h6 {
   letter-spacing: -0.025em;
 }
 
-h2,
-h3,
-h4,
-h5,
-h6 {
+h2, h3, h4, h5, h6 {
   font-weight: var(--fontWeight-bold);
   color: var(--color-heading);
 }
@@ -143,16 +132,12 @@ h6 {
   font-size: var(--fontSize-1);
 }
 
-h1 > a {
+h1>a {
   color: inherit;
   text-decoration: none;
 }
 
-h2 > a,
-h3 > a,
-h4 > a,
-h5 > a,
-h6 > a {
+h2>a, h3>a, h4>a, h5>a, h6>a {
   text-decoration: none;
   color: inherit;
 }
@@ -167,8 +152,7 @@ p {
   padding: var(--spacing-0);
 }
 
-ul,
-ol {
+ul, ol {
   margin-left: var(--spacing-0);
   margin-right: var(--spacing-0);
   padding: var(--spacing-0);
@@ -177,13 +161,12 @@ ol {
   list-style-image: none;
 }
 
-ul li,
-ol li {
+ul li, ol li {
   padding-left: var(--spacing-0);
   margin-bottom: calc(var(--spacing-8) / 2);
 }
 
-li > p {
+li>p {
   margin-bottom: calc(var(--spacing-8) / 2);
 }
 
@@ -191,7 +174,7 @@ li *:last-child {
   margin-bottom: var(--spacing-0);
 }
 
-li > ul {
+li>ul {
   margin-left: var(--spacing-8);
   margin-top: calc(var(--spacing-8) / 2);
 }
@@ -207,12 +190,11 @@ blockquote {
   margin-bottom: var(--spacing-8);
 }
 
-blockquote > :last-child {
+blockquote> :last-child {
   margin-bottom: var(--spacing-0);
 }
 
-blockquote > ul,
-blockquote > ol {
+blockquote>ul, blockquote>ol {
   list-style-position: inside;
 }
 
@@ -233,8 +215,7 @@ a {
   color: var(--color-primary);
 }
 
-a:hover,
-a:focus {
+a:hover, a:focus {
   text-decoration: none;
 }
 
@@ -298,8 +279,9 @@ a:focus {
 .bio-avatar {
   margin-right: var(--spacing-4);
   margin-bottom: var(--spacing-0);
-  min-width: 50px;
+  min-width: 20px;
   border-radius: 100%;
+  border: 1px solid #ccc;
 }
 
 .blog-post header h1 {
@@ -319,6 +301,10 @@ a:focus {
   margin-bottom: var(--spacing-8);
 }
 
+.name-color {
+  color: #00435E;
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
@@ -326,8 +312,7 @@ a:focus {
     padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4);
     margin-left: var(--spacing-0);
   }
-  ul,
-  ol {
+  ul, ol {
     list-style-position: inside;
   }
 }
