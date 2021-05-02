@@ -46,12 +46,12 @@ const Bio = () => {
         />
         {author?.name && (
           <p>
-            <strong class="name-color">{author.name} - {author?.summary || null}
+            <strong className="name-color">{author.name} - {author?.summary || null}
               {` `}</strong> <br />
-            <a target="_blank" class="my-links" href={`https://github.com/nitishkumar90-svg`}>
+            <a target="_blank" className="my-links" href={`https://github.com/nitishkumar90-svg`}>
               <FontAwesomeIcon icon={faGithub} />
             </a>
-            <a target="_blank" class="my-links" href={`https://linkedin.com/in/nitishkumar90`}>
+            <a target="_blank" className="my-links" href={`https://linkedin.com/in/nitishkumar90`}>
               <FontAwesomeIcon icon={faLinkedinIn} />
             </a>
           </p>

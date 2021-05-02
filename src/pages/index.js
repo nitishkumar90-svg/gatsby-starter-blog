@@ -60,11 +60,11 @@ const BlogIndex = ({ data, location }) => {
                     itemScope
                     itemType="http://schema.org/Article">
                     <header>
-                      <div class="blog-sub-heading grid grid-cols-2">
+                      <div className="blog-sub-heading grid grid-cols-2">
                         <h2>
                           {title}
                         </h2>
-                        <small class="time-stamp">{post.frontmatter.date}</small>
+                        <small className="time-stamp">{post.frontmatter.date}</small>
                       </div>
                     </header>
                     <section className="basic-blog-info">
@@ -78,7 +78,7 @@ const BlogIndex = ({ data, location }) => {
                         itemProp="description"
                       />
                     </section>
-                    <section class="text-left">
+                    <section className="text-left">
                       <Link className="link-to-blog" to={post.fields.slug} itemProp="url">
                         Click for information
                       </Link>

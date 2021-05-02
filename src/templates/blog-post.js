@@ -30,10 +30,10 @@ const BlogPostTemplate = ({ data, location }) => {
           <aside>
             <header>
               <Link to="/" className="link-to-home">Home</Link>
-              <h1 class="single-blog-heading" itemProp="headline">{post.frontmatter.title}</h1>
+              <h1 className="single-blog-heading" itemProp="headline">{post.frontmatter.title}</h1>
               <p className="single-blog-date-time"><b>{post.frontmatter.date}</b></p>
             </header>
-            <section class="template-content"
+            <section className="template-content"
               dangerouslySetInnerHTML={{ __html: post.html }}
               itemProp="articleBody"
             />

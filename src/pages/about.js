@@ -15,9 +15,9 @@ const AboutPage = ({ data, location }) => {
           className="post-list-item"
           itemScope
           itemType="http://schema.org/Article">
-          <section class="about-me shadow">
+          <section className="about-me shadow">
             <header>
-              <div class="blog-sub-heading grid grid-cols-2">
+              <div className="blog-sub-heading grid grid-cols-2">
                 <h2>
                   Nitish Kumar - N01439396
               </h2>
@@ -32,7 +32,7 @@ const AboutPage = ({ data, location }) => {
               </p><p>
                 Whether it’s creating servers in Node, connecting to Firebase databases or designing unique user experiences per device whilst still maintaining a consistent brand experience I will bring your ideas to life.</p>
             </section>
-            <section class="contact-info">
+            <section className="contact-info">
               <p>10, Juliana Square, Brampton, Ontario</p>
               <p>+1 437 983 0181</p>
               <p>Thank you!</p>
