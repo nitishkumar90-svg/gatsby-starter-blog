@@ -3,7 +3,7 @@ title: Mill Run Golf Club - Top-notch Golf in Durham Region!
 date: "2021-04-29T22:12:03.284Z"
 description: For better or worse, I’m someone who adores variety, and so it’s no surprise that Mill Run Golf Club is one of my favourite Ontario golf experiences around. 
 bannerimage: "https://i.ibb.co/cvrxr0B/mill-run-golf-course.jpg"
-alt: ""
+alt: "Mill Run Golf Club"
 ---
 
 <br/>
