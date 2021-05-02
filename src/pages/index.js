@@ -58,23 +58,30 @@ const BlogIndex = ({ data, location }) => {
                   <article
                     className="post-list-item"
                     itemScope
-                    itemType="http://schema.org/Article"
-                  >
+                    itemType="http://schema.org/Article">
                     <header>
-                      <h2>
-                        <Link to={post.fields.slug} itemProp="url">
-                          <span itemProp="headline">{title}</span>
-                        </Link>
-                      </h2>
-                      <small>{post.frontmatter.date}</small>
+                      <div class="blog-sub-heading grid grid-cols-2">
+                        <h2>
+                          {title}
+                        </h2>
+                        <small class="time-stamp">{post.frontmatter.date}</small>
+                      </div>
                     </header>
-                    <section>
-                      <p
+                    <section className="basic-blog-info">
+                      <img width="100" height="100" src={post.frontmatter.bannerimage}
+                        alt={post.frontmatter.alt}
+                        border="0" />
+                      <p className="blog-description"
                         dangerouslySetInnerHTML={{
                           __html: post.frontmatter.description || post.excerpt,
                         }}
                         itemProp="description"
                       />
+                    </section>
+                    <section class="text-left">
+                      <Link className="link-to-blog" to={post.fields.slug} itemProp="url">
+                        Click for information
+                      </Link>
                     </section>
                   </article>
                 </li>
@@ -82,8 +89,8 @@ const BlogIndex = ({ data, location }) => {
             })}
           </ol>
         </section>
-      </div>
-    </Layout>
+      </div >
+    </Layout >
   )
 }
 
@@ -103,9 +110,11 @@ export const pageQuery = graphql`
           slug
         }
         frontmatter {
-          date(formatString: "MMMM DD, YYYY")
+          date(formatString: "YYYY, MMM DD")
           title
           description
+          bannerimage
+          alt
         }
       }
     }

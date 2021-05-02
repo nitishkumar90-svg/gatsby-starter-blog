@@ -1,7 +1,7 @@
 :root {
   --font-family: 'Roboto Condensed', sans-serif;
   --secondary-font-family: 'Poppins', sans-serif;
-  --primary-color:#EC7969;
+  --primary-color:#008080;
   --background-color: #000;
   --secondary-color: #ffffff;
   --placeholder-color: rgb(146, 146, 146);
@@ -10,6 +10,7 @@
   --website-secondary-color: #2647A3;
   --webite-additional-color: #2F57D7;
   --gray-color: #ccc;
+  --main-bg-color: #FBF9F4
 }
 
 * {
@@ -23,7 +24,7 @@ html {
 
 body {
   font-family: var(--font-family);
-  background-color: var(--secondary-color);
+  background-color: var(--main-bg-color);
 }
 
 h1,h2,h3,h4,h5,h6,a,p,span {

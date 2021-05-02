@@ -1,108 +1,83 @@
 ---
-title: Introduction
+title: Have a Lovely Weekend
 date: "2021-05-01T22:40:32.169Z"
-description: Some overview of my experience.
+description: What are you up to this weekend? This is the start of Toby’s birthday month, which he has planned with great fanfare.
+bannerimage: "https://i.ibb.co/ggfVYbk/Screen-Shot-2021-04-29-at-3-35-40-PM.png"
+alt: "Have a Lovely Weekend"
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+What are you up to this weekend? This is the start of Toby’s birthday month, which he has planned with great fanfare. We are kicking it off with a piñata this weekend! Hope you have a good one, and here are a few links from around the web…
 
-## On deer horse aboard tritely yikes and much
+<br/>
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+I am LOVING this **funny, honest audiobook**.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+<br/>
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+How yummy does **this sandwich look?**
 
-### Overlaid the jeepers uselessly much excluding
+<br/>
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+**Is it a vaccine side effect or have you just been alive for 40 years?** Hahaha.
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+<br/>
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+**Brilliant.**
 
-### According a funnily until pre-set or arrogant well cheerful
+<br/>
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+A sexy springtime **pick-me-up.**
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+<br/>
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+Can you see **this optical illusion?**
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+<br/>
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+**Shortbread**, oh, how I love thee.
 
-#### Silent delightfully including because before one up barring chameleon
+<br/>
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
+**A great everyday shirt.**
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+<br/>
 
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
+“I’m not languishing, **I’m dormant.”**
 
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
+<br/>
 
-###### Slapped cozy a that lightheartedly and far
+Why is perimenopause still a mystery? (New York Times)
 
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+<br/>
+
+“Ted Lasso awakened lots of things in me.”
+
+<br/>
+
+Plus two reader comments:
+
+<br/>
+
+Says Jill on three women share their later-in-life accomplishments: “In 12 days I will graduate with my bachelor’s degree at the age of 54! That first sip of champagne that I take while watching my virtual graduation will be so so so sweet and delightful! I am so damn proud of myself! I DID IT!!”
+
+<br/>
+
+Says Johanna on three women share their later-in-life accomplishments: “So many of the role models and stories I grew up carried an implicit message that ‘happily-ever-after’ should be achieved by around 28 (typically with marriage and a baby). It’s so limiting and a bit depressing! It’s inspiring to see examples of people continuing to lead rich, multi-layered lives full of growth and exploration. May we all be neither late bloomers nor early bloomers, but perennials.”
+
+<br/>
+
+##My Everyday Thought Process
+
+<br/>
+
+![Alt Text](https://cupofjo.com/wp-content/uploads/2021/04/Grace-Farris-CupofJo-3-1.jpeg, "Everyday Process")
+
+<br/>
+
+##Our Favorite Sheets (and a Huge Sale)
+
+<br/>
+
+![Alt Text](https://cupofjo.com/wp-content/uploads/2021/04/Brooklinen_CupofJo_VeronicaOlson_042121-5611.jpg, "Everyday Process")
+
+

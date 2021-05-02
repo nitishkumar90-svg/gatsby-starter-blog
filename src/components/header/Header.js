@@ -25,8 +25,8 @@ const Header = ({ isRoot }) => {
                     <div className="nav-bar">
                         <nav>
                             <ul className="flex flex-right flex-gap-2">
-                                <li className={isRoot === 'true' ? `active` : ``}><Link to="/">Home</Link></li>
-                                <li className={isRoot === 'false' ? `active` : ``}><Link to="/about">About</Link></li>                            </ul>
+                                <li className={isRoot ? `active` : `normal-tag`}><Link to="/">Home</Link></li>
+                                <li className={!isRoot ? `active` : `normal-tag`}><Link to="/about">About</Link></li>                            </ul>
                         </nav>
                     </div>
                 </div>

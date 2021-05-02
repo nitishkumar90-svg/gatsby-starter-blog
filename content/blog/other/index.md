@@ -1,233 +1,77 @@
 ---
-title: Other details
+title: Mill Run Golf Club - Top-notch Golf in Durham Region!
 date: "2021-04-29T22:12:03.284Z"
-description: "Hello World"
+description: For better or worse, I’m someone who adores variety, and so it’s no surprise that Mill Run Golf Club is one of my favourite Ontario golf experiences around. 
+bannerimage: "https://i.ibb.co/cvrxr0B/mill-run-golf-course.jpg"
+alt: ""
 ---
 
-This is Nitish's post on my new fake blog! How exciting!
+<br/>
 
-I'm sure I'll write a lot more interesting things in the future.
+For better or worse, I’m someone who adores variety, and so it’s no surprise that Mill Run Golf Club is one of my favourite Ontario golf experiences around. 
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+<br/>
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+Located in the rolling hills of Uxbridge Township, Mill Run currently has a 27 hole Championship Course, as well a 18 hole Highland Course to call their own. This means that they have got a little something for golfers of all skill levels and also different schedules. 
 
-![Chinese Salty Egg](./salty_egg.jpg)
+<br/>
 
-You can also write code blocks here!
+Some folks might want to play all three unique 9 whole courses that comprise the 27 hole Championship Course in one fell swoop. Another person may want to whip through the Highland Course, and perhaps another might just want to sneak in nine holes after work. 
 
-```js
-const saltyDuckEgg = "chinese preserved food product"
-```
+<br/>
 
-| Number | Title | Year |
-| :----- | :--------------------------------------- | ---: |
-| 1 | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2 | Harry Potter and the Chamber of Secrets | 2002 |
-| 3 | Harry Potter and the Prisoner of Azkaban | 2004 |
+With golf clubs that have one course, you simply don’t have this kind of flexibility, so Mill Run suits my personality and temperament perfectly. 
 
-[View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
+<br/>
 
-This is a paragraph.
+In this article, I’ll run through pertinent information about the course, relay my personal experience where applicable, as well as addressing any frequently asked questions about Mill Run Golf Club to ensure that after you finish reading this, you’ll know whether Mill Run is for you!
 
-This is a paragraph.
+<br/>
 
-# Header 1
+##A Brief History of Mill Run Golf Club 
 
-## Header 2
+<br/>
 
-Header 1
-========
+Firstly, it should be noted that the course was designed by Rene Mulyaert, who is very well known Ontario golf architect. In fact, he was also the brainpower behind another Ontario golf course that I reviewed recently, St. Andrew’s Valley. 
 
-Header 2
---------
+<br/>
 
-# Header 1
+I appreciated how challenging St. Andrew’s Valley was, but at the end of the day, I do indeed prefer Mill Run, and largely because of that aforementioned variety. It’s priceless to me that there are so many different quality options to improve your game and appreciate the sport at Mill Run. 
 
-## Header 2
+<br/>
 
-### Header 3
+Mill Run is a semi-private course, meaning that the membership is the backbone of what goes on there. In fact, the way that they approach leagues and tournaments breeds a genuine sense of community. I get into more of that in the FAQ section near the bottom. 
 
-#### Header 4
+<br/>
 
-##### Header 5
+It’s clear that they’re constantly trying to improve, which can be exemplified by the addition of “The Grind,” the nine hole course built in 2007 that differentiated Mill Run since they now have 27 championship holes. 
 
-###### Header 6
+<br/>
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+##The Golf Courses at Mill Run
 
-# Header 1
+<br/>
 
-## Header 2
+![Alt Text](https://images.squarespace-cdn.com/content/v1/5856bc666a49634cd55b0ba9/1610555775309-V5WFEWZCFBLE11E1WVTL/ke17ZwdGBToddI8pDm48kIIFsYAJJX10OgNkc4SuD20UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKce0j9vvU4chI_bB_CjBNrJapSKkBorzMUDpE1NYw5XxnDgGKGBETQKcT3bo-auxwM/mill+run+golf+club+-+uxbridge%2C+ontario.jpg?format=1000w "Golf")
 
-### Header 3
+<br/>
 
-#### Header 4
+As I mentioned before, they have three separate nine hole championship courses that can be played in combination - “Wheel,” “Grist,” and “Grind.” Plus, they have their 18 hole Highland course, which is one of the top short golf courses in Ontario. The four ways Mill Run is most commonly played is as follows. 
 
-##### Header 5
+<br/>
 
-###### Header 6
+Wheel-Grind is 18 holes with a par of 72, and coming in at 6633 yards.
 
-# Header 1 #
-## Header 2 ##
-### Header 3 ###
-#### Header 4 ####
-##### Header 5 #####
-###### Header 6 ######
+<br/>
 
-> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-viverra nec, fringilla in, laoreet vitae, risus.
+Grist-Wheel is 18 holes with a par 71, and is the longest combination at Mill Run as it comes in at 6690 yards. 
 
-> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-viverra nec, fringilla in, laoreet vitae, risus.
+<br/>
 
-> ## This is a header.
->
-> 1. This is the first list item.
-> 2. This is the second list item.
->
-> Here's some example code:
->
-> Markdown.generate();
+Grind-Grist is 18 holes, a par 71, and is slightly shorter at 6407 yards. 
 
-> ## This is a header.
-> 1. This is the first list item.
-> 2. This is the second list item.
->
-> Here's some example code:
->
-> Markdown.generate();
+<br/>
 
-- Red
-- Green
-- Blue
+The Highland Course is their short course, and typically plays around 3500 yards. 
 
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-
-```markdown
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-```
-
-- `code goes` here in this line
-- **bold** goes here
-
-```markdown
-- `code goes` here in this line
-- **bold** goes here
-```
-
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-
-```markdown
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-```
-
-1. `code goes` here in this line
-1. **bold** goes here
-
-```markdown
-1. `code goes` here in this line
-1. **bold** goes here
-```
-
-Paragraph:
-
-Code
-
-<!-- -->
-
-Paragraph:
-
-Code
-
----
-
----
-
----
-
----
-
----
-
-* * *
-
-***
-
-*****
-
-- - -
-
----------------------------------------
-
-This is [an example](http://example.com "Example") link.
-
-[This link](http://example.com) has no title attr.
-
-This is [an example][id] reference-style link.
-
-[id]: http://example.com "Optional Title"
-
-This is [an example](http://example.com "Example") link.
-
-[This link](http://example.com) has no title attr.
-
-This is [an example] [id] reference-style link.
-
-[id]: http://example.com "Optional Title"
-
-_single asterisks_
-
-_single underscores_
-
-**double asterisks**
-
-**double underscores**
-
-*single asterisks*
-
-_single underscores_
-
-**double asterisks**
-
-__double underscores__
-
-This paragraph has some `code` in it.
-
-This paragraph has some `code` in it.
-
-![Alt Text](https://placehold.it/200x50 "Image Title")
-
-![Alt Text](https://placehold.it/200x50 "Image Title")
+<br/>

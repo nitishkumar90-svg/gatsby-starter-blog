@@ -23,11 +23,11 @@
 }
 
 .shadow {
-  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0,128,128, 0.2), 0 6px 20px 0 rgba(0,128,128, 0.19);
   /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
-  -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  -moz-box-shadow: 0 4px 8px 0 rgba(0,128,128, 0.2), 0 6px 20px 0 rgba(0,128,128, 0.19);
   /* Firefox 3.5 - 3.6 */
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 4px 8px 0 rgba(0,128,128, 0.2), 0 6px 20px 0 rgba(0,128,128, 0.19);
   /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
 }
 
@@ -156,6 +156,7 @@
 footer {
   background-color: var(--background-color);
   padding: 0.4em;
+  clear: both;
 }
 
 footer p {
@@ -167,12 +168,65 @@ footer p {
   margin-bottom: 2em;
 }
 
-main {
-  height: 90vh;
-}
-
 .blog-section {
   padding: 2em 0;
+}
+
+.time-stamp {
+  text-align: right;
+  font-weight: bold;
+}
+
+.blog-sub-heading {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 1em;
+}
+
+.blog-sub-heading h2, .blog-sub-heading span {
+  color: white;
+}
+
+.small-font {
+  font-weight: normal;
+  color: white;
+  font-style: italic;
+}
+
+.hero-banner {
+  position: sticky;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  height: 100vh;
+}
+
+.single-blog-heading {
+  font-weight: bold;
+  color: var(--primary-color);
+  font-size: 40px;
+  padding: 0.5em 0;
+}
+
+
+.single-blog-date-time {
+  background-color: lightgoldenrodyellow;
+}
+
+.template-content {
+  padding: 1em 0;
+  font-family: inherit;
+}
+
+.template-content a {
+  font-weight: bold;
+  text-decoration: underline;
+  color: blue;
+}
+
+.hero-banner img {
+  width: 90%;
+  height: 100%;
 }
 
 .bounce {
@@ -190,6 +244,31 @@ main {
   border: 0;
   border-bottom: 2px solid var(--background-color);
   width: 50%;
+}
+
+.basic-blog-info {
+  padding: 1em 0 0 0;
+}
+
+.blog-description {
+  padding: 1em 0 0 0;
+}
+
+.link-to-home {
+  padding: 1em 0 0 0;
+  display: inline-block;
+  font-weight: bold;
+  text-decoration: underline;
+  color: var(--gray-color);
+}
+
+.link-to-blog {
+  color: var(--primary-color);
+  padding: 1em 0 0 0;
+  display: inline-block;
+  text-align: left;
+  font-weight: bold;
+  text-decoration: double;
 }
 
 @keyframes bounce {
