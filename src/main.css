@@ -14,6 +14,10 @@
   float: right;
 }
 
+.about-me {
+  padding: 1em;
+}
+
 .float-left {
   float: left;
 }
@@ -45,6 +49,19 @@
 
 .width-30 {
   width: 40vh;
+}
+
+.basic-blog-info p {
+  padding-bottom: 1em;
+}
+
+.contact-info p
+{
+  padding-bottom: 1em;
+}
+
+.contact-info {
+  padding: 0 0 1em 0;
 }
 
 .success {

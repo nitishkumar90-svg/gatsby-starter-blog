@@ -30,7 +30,7 @@ const Header = ({ isRoot }) => {
                         </nav>
                     </div>
                 </div>
-                <h2 className="title-text">Scroll for blogs</h2>
+                <h2 className="title-text">{isRoot ? `Scroll for blogs` : `Scroll for About Me`}</h2>
                 <a href="javascript:void(0)" className="arrow-down bounce"><img width="50" src={arrowDown} /></a>
             </div>
         </div>
