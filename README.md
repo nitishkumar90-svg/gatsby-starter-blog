@@ -92,15 +92,18 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 Added custom font - Poppins -> npm i gatsby-plugin-google-fonts
 In gatsby-config.js - Add
-    {
-      resolve: `gatsby-plugin-google-fonts`,
-      options: {
-        fonts: [
-          `Oxygen`
-        ],
-        display: 'swap'
-      }
-    }
+
+
+{
+  resolve: `gatsby-plugin-google-fonts`,
+  options: {
+    fonts: [
+      `Poppins`
+    ],
+    display: 'swap'
+  }
+}
+
 
 ## 🎓 Learning Gatsby
 
