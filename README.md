@@ -88,11 +88,10 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 12. **`README.md`**: A text file containing useful reference information about your project.
 
-## My Custom Font Addition
+## My Custom Font Addition - POPPINS
 
 Added custom font - Poppins -> npm i gatsby-plugin-google-fonts
 In gatsby-config.js - Add
-
 
 {
   resolve: `gatsby-plugin-google-fonts`,
