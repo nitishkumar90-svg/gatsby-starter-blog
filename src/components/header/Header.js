@@ -31,7 +31,7 @@ const Header = ({ isRoot }) => {
                     </div>
                 </div>
                 <h2 className="title-text">Scroll for blogs</h2>
-                <a href="#" className="arrow-down bounce"><img width="50" src={arrowDown} /></a>
+                <a href="javascript:void(0)" className="arrow-down bounce"><img width="50" src={arrowDown} /></a>
             </div>
         </div>
     )

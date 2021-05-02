@@ -8,10 +8,14 @@ import Seo from "../components/seo"
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
+
+  //Search blogs
   const [search, setSearch] = useState({
     querySelector: ``,
     filteredBlogs: posts
   })
+
+  //OnChange event for searching blogs
   const handleBlogFilter = (event) => {
     setSearch(
       {
@@ -38,7 +42,7 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <div className="container">
         <Seo title="All posts" />
-        <section className="blog-section">
+        <section id="blogs" className="blog-section">
           <div className="blog-heading grid grid-cols-2">
             <h2>Blogs ({search.filteredBlogs.length})</h2>
             <div className="text-right">
