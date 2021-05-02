@@ -1,0 +1,36 @@
+.header-main {
+    padding: 2em;
+    clear: both;
+}
+
+nav li a, h1 {
+    color: var(--secondary-color);
+}
+
+.title-text {
+  color: var(--secondary-color);
+  padding-top: 70vh;
+}
+
+.arrow-down {
+    padding-top: 2em;
+    display: inline-block;
+}
+
+.active {
+    border-bottom: 2px solid var(--secondary-color);
+}
+
+::-webkit-input-placeholder {
+    /* Edge */
+    color: var(--background-color);
+}
+
+:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: var(--background-color);
+}
+
+::placeholder {
+    color: var(--background-color);
+}

@@ -1,6 +1,6 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Other details
+date: "2021-04-29T22:12:03.284Z"
 description: "Hello World"
 ---
 
@@ -27,46 +27,27 @@ You can also write code blocks here!
 const saltyDuckEgg = "chinese preserved food product"
 ```
 
-| Number | Title                                    | Year |
+| Number | Title | Year |
 | :----- | :--------------------------------------- | ---: |
-| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
-| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
+| 1 | Harry Potter and the Philosopher’s Stone | 2001 |
+| 2 | Harry Potter and the Chamber of Secrets | 2002 |
+| 3 | Harry Potter and the Prisoner of Azkaban | 2004 |
 
 [View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
 
 This is a paragraph.
 
-    This is a paragraph.
+This is a paragraph.
 
 # Header 1
 
 ## Header 2
 
-    Header 1
-    ========
+Header 1
+========
 
-    Header 2
-    --------
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1
-    ## Header 2
-    ### Header 3
-    #### Header 4
-    ##### Header 5
-    ###### Header 6
+Header 2
+--------
 
 # Header 1
 
@@ -80,16 +61,37 @@ This is a paragraph.
 
 ###### Header 6
 
-    # Header 1 #
-    ## Header 2 ##
-    ### Header 3 ###
-    #### Header 4 ####
-    ##### Header 5 #####
-    ###### Header 6 ######
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
-> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+# Header 1
 
-    > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+## Header 2
+
+### Header 3
+
+#### Header 4
+
+##### Header 5
+
+###### Header 6
+
+# Header 1 #
+## Header 2 ##
+### Header 3 ###
+#### Header 4 ####
+##### Header 5 #####
+###### Header 6 ######
+
+> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
+viverra nec, fringilla in, laoreet vitae, risus.
+
+> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
+viverra nec, fringilla in, laoreet vitae, risus.
 
 > ## This is a header.
 >
@@ -98,15 +100,15 @@ This is a paragraph.
 >
 > Here's some example code:
 >
->     Markdown.generate();
+> Markdown.generate();
 
-    > ## This is a header.
-    > 1. This is the first list item.
-    > 2. This is the second list item.
-    >
-    > Here's some example code:
-    >
-    >     Markdown.generate();
+> ## This is a header.
+> 1. This is the first list item.
+> 2. This is the second list item.
+>
+> Here's some example code:
+>
+> Markdown.generate();
 
 - Red
 - Green
@@ -162,15 +164,13 @@ This is a paragraph.
 
 Paragraph:
 
-    Code
+Code
 
 <!-- -->
 
-    Paragraph:
+Paragraph:
 
-        Code
-
----
+Code
 
 ---
 
@@ -180,15 +180,17 @@ Paragraph:
 
 ---
 
-    * * *
+---
 
-    ***
+* * *
 
-    *****
+***
 
-    - - -
+*****
 
-    ---------------------------------------
+- - -
+
+---------------------------------------
 
 This is [an example](http://example.com "Example") link.
 
@@ -198,13 +200,13 @@ This is [an example][id] reference-style link.
 
 [id]: http://example.com "Optional Title"
 
-    This is [an example](http://example.com "Example") link.
+This is [an example](http://example.com "Example") link.
 
-    [This link](http://example.com) has no title attr.
+[This link](http://example.com) has no title attr.
 
-    This is [an example] [id] reference-style link.
+This is [an example] [id] reference-style link.
 
-    [id]: http://example.com "Optional Title"
+[id]: http://example.com "Optional Title"
 
 _single asterisks_
 
@@ -214,18 +216,18 @@ _single underscores_
 
 **double underscores**
 
-    *single asterisks*
+*single asterisks*
 
-    _single underscores_
+_single underscores_
 
-    **double asterisks**
+**double asterisks**
 
-    __double underscores__
+__double underscores__
 
 This paragraph has some `code` in it.
 
-    This paragraph has some `code` in it.
+This paragraph has some `code` in it.
 
 ![Alt Text](https://placehold.it/200x50 "Image Title")
 
-    ![Alt Text](https://placehold.it/200x50 "Image Title")
+![Alt Text](https://placehold.it/200x50 "Image Title")
